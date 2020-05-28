@@ -3,7 +3,7 @@
                             ***************Version: Matlab R2018b***************
 
 
-Coursework Title: Comparison of Naive Bayes and Decision Trees for Classification of Gamma Rays
+                 Comparison of Naive Bayes and Decision Trees for Classification of Gamma Rays
 
 Data Source: https://archive.ics.uci.edu/ml/datasets/magic+gamma+telescope
 
